@@ -620,7 +620,7 @@ SOFTWARE
    See the License for the specific language governing permissions and
    limitations under the License.
    
-Apache Kafka's open source component are generally licensed under the Apache 2.0 license:
+Apache Kafka's open source component is generally licensed under the Apache 2.0 license:
 
                                  Apache License
                            Version 2.0, January 2004
@@ -850,7 +850,7 @@ PURPOSE. THE SOFTWARE PROVIDED HEREUNDER IS ON AN "AS IS" BASIS, AND THE UNIVERS
 CALIFORNIA HAS NO OBLIGATIONS TO PROVIDE MAINTENANCE, SUPPORT, UPDATES, ENHANCEMENTS, 
 OR MODIFICATIONS.
 
-Grafana's open source component are generally licensed under the Apache 2.0 license:
+Grafana's open source component is generally licensed under the Apache 2.0 license:
 Apache License
                            Version 2.0, January 2004
                         http://www.apache.org/licenses/
